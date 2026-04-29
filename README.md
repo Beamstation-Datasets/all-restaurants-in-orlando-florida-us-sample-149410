@@ -1,6 +1,6 @@
 # All Restaurants in Orlando, Florida, US
 
-> Free BeamStation sample export with 228 rows and masked direct-contact fields.
+> Free BeamStation sample export with 207 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `149410` |
 | Location | Orlando |
 | Category | Restaurants |
-| Full dataset size | 2,287 records |
-| Free sample size | 228 records (9.97%) |
-| Last export | 2026-04-21T20:45:58.542152+00:00 |
+| Full dataset size | 2,079 records |
+| Free sample size | 207 records (9.96%) |
+| Last export | 2026-04-28T22:29:38.196637+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-orlando-florida-us-sample-149410/releases/download/sample-latest/beamstation_149410_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
