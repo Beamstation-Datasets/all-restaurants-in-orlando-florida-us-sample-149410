@@ -1,12 +1,12 @@
 {
-  "export_job_id": "305416c5-42be-4b4f-b0f6-e7e498a8c667",
+  "export_job_id": "44ee1740-7217-4c0a-ae3d-cad902ba7adb",
   "id_short": 149410,
-  "published_at": "2026-04-22T07:08:14Z",
+  "published_at": "2026-04-29T07:22:08Z",
   "repo_name": "all-restaurants-in-orlando-florida-us-sample-149410",
   "sample_asset_name": "beamstation_149410_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/149410/beamstation_149410_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 228,
-  "sample_sha256": "efcb3311c7ea7bd61cbc16d8a7354b3f42ac0d643a5da30cee8a05aad4fd2300",
-  "sample_size_bytes": 806485,
-  "total_records": 2287
+  "sample_records": 207,
+  "sample_sha256": "1401c880dca38ecb6a771d1427efacee4008edb3ab014fc114a15b3a830e5c14",
+  "sample_size_bytes": 754888,
+  "total_records": 2079
 }
